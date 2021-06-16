@@ -1,5 +1,4 @@
-# Advance JS Part2 : 7.Key Values Entities
-
+# Advance JS Part2 : 7.Key Values Entries
 
 [1.Salary](https://docs.google.com/presentation/d/1jrkOP7nCQZN1H0v-77ohHYCdEs7wffdhtf7gQMfSfkw/edit#slide=id.g700e0f97b6_2_1551)  
 - กำหนดให้ salaries เป็น Object  
