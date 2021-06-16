@@ -12,7 +12,7 @@ let salaries = {
   "Mary": 250
 };
 
-// write your code after this line
+// write your code below this line
 
 
 
