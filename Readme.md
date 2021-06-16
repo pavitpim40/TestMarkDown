@@ -1,3 +1,3 @@
 
 ## JavaScript Part1
-- [Basic](./CC_JSPart1_2_Basic.md)
+- [Basic](https://github.com/pavitpim40/TestMarkDown/blob/main/CC_JSPart1_2_%20Basic.md)
