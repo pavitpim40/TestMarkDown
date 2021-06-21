@@ -1,4 +1,4 @@
-# STRING PRACTICE
+# STRING PRACTICE (15ข้อ)
 
 ## PartA-พื้นฐานการประกาศตัวแปรและกำหนดค่า (Declaration and Initialization)
 [1.Declare String Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)
@@ -109,4 +109,6 @@
 // Finish and Paste your solution here
 
 
+
 ```
+
